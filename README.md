@@ -1,8 +1,8 @@
-# Título do projeto
+# Projeto de análise descritiva - Telemarketing
 
 Projeto desenvolvido durante a formação de Cientista de Dados da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
-## Descrição do projeto
+## Descrição 
 
 O objetivo do projeto é criar uma página onde é possível realizar uma análise descritiva em tempo real de uma base de dados de telemarketing, que ocntém informações do cliente e uma variável resposta indicando se ele aceitou o plano ou não.
 
@@ -18,46 +18,31 @@ https://telemarketing-m9dt.onrender.com/
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Bibliotecas disponíveis no arquivo requirements.txt.
+* Pyhton 3.10 ou superior instalado.
+* Para rodar localmente, necessário streamlit versão 1.20 ou superior.
 
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
+* Clonar o projeto para a máquina.
+* Abrir uma janela do CMD ou Git Bash.
+* Navegar até a pasta do projeto.
 ```
-bloco de código para os comandos necessários
+streamlit run app_7.py
 ```
 
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
+Erros na exibição dos gráficos, atualizar o XlsxWriter.
 ```
-comando para rodar se o programa tiver uma informação de ajuda
+pip install xlsxwriter -U
 ```
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
+[@DaviAlencar](https://www.linkedin.com/in/davi-araujo-alencar/)
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
