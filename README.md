@@ -4,9 +4,9 @@ Projeto desenvolvido durante a formação de Cientista de Dados da EBAC - Escola
 
 ## Descrição 
 
-O objetivo do projeto é criar uma página onde é possível realizar uma análise descritiva em tempo real de uma base de dados de telemarketing, que ocntém informações do cliente e uma variável resposta indicando se ele aceitou o plano ou não.
+O objetivo do projeto foi criar uma página, onde é possível realizar uma análise descritiva em tempo real de uma base de dados de telemarketing, que contém informações dos clientes e uma variável resposta, indicando se ele aceitou o plano ou não.
 
-A página foi construída utilizando Python e Streamlit, nela, é possível carregar um arquivo CSV e aplicar diversos filtros diferentes, como idade mínima e máxima, profissão, tipo de gráfico, etc. 
+A página foi construída utilizando Python e Streamlit, e nela, é possível carregar um arquivo CSV e aplicar diversos filtros diferentes, como idade mínima e máxima, profissão, tipo de gráfico, etc. 
 
 Ao terminar, basta clicar no botão "aplicar" que os filtros serão persistidos e os gráficos atualizados dinamicamente.
 
