@@ -1,10 +1,18 @@
 # Título do projeto
 
-Um simples resumo do uso/propósito do projeto.
+Projeto desenvolvido durante a formação de Cientista de Dados da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+O objetivo do projeto é criar uma página onde é possível realizar uma análise descritiva em tempo real de uma base de dados de telemarketing, que ocntém informações do cliente e uma variável resposta indicando se ele aceitou o plano ou não.
+
+A página foi construída utilizando Python e Streamlit, nela, é possível carregar um arquivo CSV e aplicar diversos filtros diferentes, como idade mínima e máxima, profissão, tipo de gráfico, etc. 
+
+Ao terminar, basta clicar no botão "aplicar" que os filtros serão persistidos e os gráficos atualizados dinamicamente.
+
+## Link do projeto (LIVE)
+
+https://telemarketing-m9dt.onrender.com/
 
 ## Utilização
 
